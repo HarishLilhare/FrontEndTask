@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem6 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dpxlrbt77/image/upload/v1721833310/Harish/okacbak6lj1kl9mliwzo.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-card {
+    color: rgb(255, 255, 255);
+    background-color: rgba(205, 120, 118, 0.75);
+    width: 65%;
+    padding: 25px;
+    margin: 75px;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 16px;
+    text-align: left;
+}
+
+.wcu-section {
+    background-image: linear-gradient(to right, #ff68c2, #ff685c, #ffda5c);
+}
+
+.wcu-section-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-color: #e5eaf4;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.wcu-card-image {
+    width: 220px;
+    height: 220px;
+    border-top-right-radius: 50px;
+}
+
+.wcu-card-title {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.wcu-card-description {
+    font-family: "Roboto";
+    font-size: 20px;
+}
