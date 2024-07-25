@@ -1,2 +1,2 @@
 Front end task............
-publish link==== taskfrontend1.ccbp.tech
+publish link = taskfrontend1.ccbp.tech
